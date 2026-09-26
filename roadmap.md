@@ -1,0 +1,8 @@
+- [x] Create a responsive editorial homepage featuring the foundation and three pillars.
+- [x] Add dedicated pages for projects, community and education, seedling requests, and support.
+- [x] Use original foundation imagery, verified giving information, and clear goal labeling.
+- [x] Verify desktop/mobile rendering and seedling request flow.
+- [x] Add About dropdown and dedicated About, Team, Gallery, Membership, Events, Blog, Contact pages.
+- [x] Add separate illustrative event/blog content and homepage previews.
+- [x] Add three-image fading homepage carousel and responsive sticky navigation.
+- [x] Check all new pages and interactions at desktop and mobile widths.
